@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChalresBryan/PhoneEatsFirst.git/static/css/main.72211f69.css",
+    "main.js": "/ChalresBryan/PhoneEatsFirst.git/static/js/main.22db2f87.js",
+    "static/js/787.f5fb771b.chunk.js": "/ChalresBryan/PhoneEatsFirst.git/static/js/787.f5fb771b.chunk.js",
+    "index.html": "/ChalresBryan/PhoneEatsFirst.git/index.html",
+    "main.72211f69.css.map": "/ChalresBryan/PhoneEatsFirst.git/static/css/main.72211f69.css.map",
+    "main.22db2f87.js.map": "/ChalresBryan/PhoneEatsFirst.git/static/js/main.22db2f87.js.map",
+    "787.f5fb771b.chunk.js.map": "/ChalresBryan/PhoneEatsFirst.git/static/js/787.f5fb771b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72211f69.css",
+    "static/js/main.22db2f87.js"
+  ]
+}
